@@ -10,6 +10,7 @@ body {
     line-height:1;
     background-color: #000000;
     color: #ffffff;
+    font-family: "Lucida Grande", sans-serif;
 }
 h1 { 
     font-size: 64px;
